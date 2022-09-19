@@ -3,4 +3,4 @@
 
 Я в Нетологии прохожу курс Java разработчик с нуля
 
-![avatar](C:\Users\Simon\Desktop\3tDtTGzjGKg.jpg)
+![3tDtTGzjGKg](https://user-images.githubusercontent.com/113122147/191062848-f7987853-b35c-4469-bf1d-5df2f74d217f.jpg)
